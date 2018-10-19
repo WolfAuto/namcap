@@ -11,3 +11,4 @@ setup(name="namcap",
 	py_modules=["pacmanp"], packages=["Namcapp"], scripts=["namcapp.py", 'parsepkgbuildp'],data_files =DATAFILES)
 
 # vim: set ts=4 sw=4 noet:
+#pretty good
